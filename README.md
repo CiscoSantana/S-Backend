@@ -4,7 +4,7 @@
 
 <h2>System Requirements:</h2>
 
-<p>Create an authentication system with JWT;
+<p>Create an authentication system with JWT;</br>
 Create a full CRUD for user management;</br>
 Use Entity Framework or Dapper for interaction with the database;</br>
 The application must allow registered users to log in and manage other users;</br>
